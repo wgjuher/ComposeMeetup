@@ -1,5 +1,5 @@
-[Interpreting Compose Compiler Metrics](https://github.com/androidx/androidx/blob/androidx-main/compose/compiler/design/compiler-metrics.md)
-[Composable metrics](https://chris.banes.dev/composable-metrics/)
+* [Interpreting Compose Compiler Metrics](https://github.com/androidx/androidx/blob/androidx-main/compose/compiler/design/compiler-metrics.md)
+* [Composable metrics](https://chris.banes.dev/composable-metrics/)
 ```
 subprojects {
     tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
